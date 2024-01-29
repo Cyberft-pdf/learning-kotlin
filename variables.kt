@@ -8,3 +8,4 @@ fun main() {
     var age = 25
     age = 26 // OK, můžeme měnit hodnotu proměnné 'age'
 }
+//
